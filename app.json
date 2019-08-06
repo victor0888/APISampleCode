@@ -2,7 +2,6 @@
   "name": "Gateway PHP Sample Code",
   "description": "Sample PHP application for transactions on the Gateway",
   "repository": "https://github.com/victor0888/APISampleCode.git",
-  "website": "https://github.com/victor0888/APISampleCode.git",
   "env": {
     "GATEWAY_MERCHANT_ID": {
       "required": true,
